@@ -108,13 +108,9 @@ body {
 }
 
 /*** projects page ***/
-.projects-page .row {
-  margin-bottom: 1.2em;
-}
-
 .projects-page .project-thumbnail {
   position: relative;
-  margin: 0 0.2em;
+  margin: 0 0.2em 1.5em 0.2em;
 }
 
 .projects-page .project-thumbnail a {
